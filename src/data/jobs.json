@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "title": "Casual Retail Assistant | Ponsonby Store",
+    "company": "AS Colour",
+    "location": "Ponsonby, Auckland",
+    "category": "Retail Assistants",
+    "features": [
+      "Quarterly staff kits + Generous staff discount",
+      "Ethical and sustainable business practices",
+      "Focused on Internal Development"
+    ],
+    "featured": true,
+    "date": "2025-01-01"
+  },
+  {
+    "id": 2,
+    "title": "Mobile Applicator",
+    "company": "Diamond Fusion Glass Defender",
+    "location": "Glen Eden, Auckland",
+    "category": "Trades & Services",
+    "features": [
+      "Full training provided",
+      "Company vehicle and phone",
+      "Career growth opportunities"
+    ],
+    "featured": true,
+    "date": "2025-02-05"
+  },
+  {
+    "id": 3,
+    "title": "Front End Developer",
+    "company": "ASB",
+    "location": "CBD, Auckland",
+    "category": "Software Development",
+    "features": [
+      "Full training provided",
+      "Company vehicle and phone",
+      "Career growth opportunities"
+    ],
+    "featured": false,
+    "date": "2024-11-16"
+  },
+  {
+    "id": 4,
+    "title": "Back End Developer",
+    "company": "HSBC",
+    "location": "CBD, Auckland",
+    "category": "Software Development",
+    "features": [
+      "Full training provided",
+      "Company vehicle and phone",
+      "Career growth opportunities"
+    ],
+    "featured": true,
+    "date": "2024-12-08"
+  },
+  {
+    "id": 5,
+    "title": "Full Stack Developer",
+    "company": "Facebook",
+    "location": "CBD, Auckland",
+    "category": "Software Development",
+    "features": [
+      "Full training provided",
+      "Company vehicle and phone",
+      "Career growth opportunities"
+    ],
+    "featured": false,
+    "date": "2025-01-09"
+  },
+  {
+    "id": 6,
+    "title": "Software Engineer",
+    "company": "Google",
+    "location": "CBD, Auckland",
+    "category": "Software Development",
+    "features": [
+      "Full training provided",
+      "Company vehicle and phone",
+      "Career growth opportunities"
+    ],
+    "featured": true,
+    "date": "2025-04-01"
+  }
+]
