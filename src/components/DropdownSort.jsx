@@ -1,6 +1,6 @@
 import React from "react";
 
-const SortDropdown = ({ onSortChange }) => {
+const DropdownSort = ({ onSortChange }) => {
   const handleChange = (e) => {
     onSortChange(e.target.value);
   };
@@ -17,4 +17,4 @@ const SortDropdown = ({ onSortChange }) => {
   );
 };
 
-export default SortDropdown;
+export default DropdownSort;
